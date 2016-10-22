@@ -1,0 +1,24 @@
+{
+  "name": "ubuntu-apps-template",
+  "version": "0.1.0",
+  "description": "A simple shell script to install a consistent set of applications",
+  "main": "install.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tforster/ubuntu-apps-template.git"
+  },
+  "keywords": [
+    "ubuntu",
+    "developer",
+    "stack"
+  ],
+  "author": "Troy Forster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tforster/ubuntu-apps-template/issues"
+  },
+  "homepage": "https://github.com/tforster/ubuntu-apps-template#readme"
+}
