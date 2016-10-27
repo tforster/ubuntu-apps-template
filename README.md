@@ -7,6 +7,7 @@ _A simple shell script to install a consistent set of applications_
 Copy the following code snippet and paste it in your console.
 
 `curl -o- https://raw.githubusercontent.com/tforster/ubuntu-apps-template/v0.1.0/install.sh | bash`
+`curl -o- https://gist.githubusercontent.com/tforster/394d3865de02c9775c2c82ff0c7b1172/raw/e08de4670378e7ba105de2d15cd3e8d6fda8a652/install.sh | bash`
 
 If you don't have curl installed try using wget.
 
